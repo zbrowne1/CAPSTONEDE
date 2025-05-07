@@ -23,7 +23,7 @@ Stakeholders lack centralized access to insights like:
 
 ---
 
-## ☁️ Technology Stack
+## Technology Stack
 
 | Component              | Tech Used                    |
 |------------------------|------------------------------|
@@ -112,7 +112,7 @@ ORDER BY total_sales DESC;
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── local_etl.py
