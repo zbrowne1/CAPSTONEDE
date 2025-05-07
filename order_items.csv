@@ -1,0 +1,45 @@
+order_item_id,order_id,product_name,quantity,unit_price,total_price
+1,1,Graphic T-Shirt,2,24.99,49.98
+2,1,Leather Belt,3,29.99,89.97
+3,1,Slim Fit Jeans,2,59.99,119.98
+4,2,Leather Belt,2,29.99,59.98
+5,3,Graphic T-Shirt,2,24.99,49.98
+6,4,Slim Fit Jeans,2,59.99,119.98
+7,4,Sneakers,3,89.99,269.97
+8,5,Leather Belt,1,29.99,29.99
+9,5,Slim Fit Jeans,3,59.99,179.97
+10,5,Graphic T-Shirt,2,24.99,49.98
+11,6,Sneakers,1,89.99,89.99
+12,6,Graphic T-Shirt,1,24.99,24.99
+13,6,Sunglasses,3,49.99,149.97
+14,7,Graphic T-Shirt,1,24.99,24.99
+15,8,Sneakers,2,89.99,179.98
+16,8,Graphic T-Shirt,2,24.99,49.98
+17,9,Sneakers,3,89.99,269.97
+18,9,Slim Fit Jeans,1,59.99,59.99
+19,9,Sunglasses,3,49.99,149.97
+20,10,Leather Belt,2,29.99,59.98
+21,11,Sunglasses,2,49.99,99.98
+22,11,Graphic T-Shirt,1,24.99,24.99
+23,11,Sneakers,1,89.99,89.99
+24,12,Leather Belt,1,29.99,29.99
+25,12,Sneakers,1,89.99,89.99
+26,13,Leather Belt,2,29.99,59.98
+27,14,Graphic T-Shirt,1,24.99,24.99
+28,14,Sneakers,1,89.99,89.99
+29,15,Sneakers,2,89.99,179.98
+30,15,Leather Belt,2,29.99,59.98
+31,15,Sunglasses,1,49.99,49.99
+32,16,Slim Fit Jeans,1,59.99,59.99
+33,16,Sunglasses,1,49.99,49.99
+34,17,Leather Belt,2,29.99,59.98
+35,17,Slim Fit Jeans,3,59.99,179.97
+36,17,Graphic T-Shirt,2,24.99,49.98
+37,18,Sunglasses,3,49.99,149.97
+38,18,Slim Fit Jeans,3,59.99,179.97
+39,19,Sunglasses,2,49.99,99.98
+40,19,Sneakers,1,89.99,89.99
+41,19,Leather Belt,2,29.99,59.98
+42,20,Slim Fit Jeans,3,59.99,179.97
+43,20,Sneakers,1,89.99,89.99
+44,21,Sneakers,3,89.99,269.97
